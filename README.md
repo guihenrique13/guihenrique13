@@ -120,15 +120,11 @@
   <a href="mailto:henrique.guilherme@ufvjm.edu.br">
     <img src="https://img.shields.io/badge/Email-2e8b57?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <!-- TODO: replace the # below with your real profile links -->
-  <a href="#">
+  <a href="https://orcid.org/0000-0002-4340-0704">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Lattes-0A66C2?style=for-the-badge&logo=cv&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/guilherme-henrique-fernandes">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/guihenrique13">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
