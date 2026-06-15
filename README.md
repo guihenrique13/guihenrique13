@@ -189,6 +189,7 @@ program** (soybean, maize, sorghum, wheat, sunflower):
   </a>
 </p>
 
-<sub>🌱 Soil is alive — and so is the data. Let's keep it reproducible.</sub>
+<sub>🌱 *"If you want to understand life, don't look at a single gene. Look at the entire system. Biology today is an information science."*
+— **Leroy Hood**.</sub>
 
 <!-- profile -->
